@@ -1,2 +1,2 @@
 # Tableau-Portfolio-Projects
-This repository contains Tableau Projects Files
+This repository contains Tableau Project Files
